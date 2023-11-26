@@ -7,7 +7,8 @@
 - Eduardo Baldó Chamorro eduardobaldo10@gmail.com
 
 ## Data used
-For this homework we've used 1 main link, the linkf of the [Master's Degrees](https://www.findamasters.com/)
+For this homework we've used 1 main link, the link of the [Master's Degrees](https://www.findamasters.com/).
+
 From this webpage we made the scrapping to get all the data, the first 6000 Master degrees presented. 
 
 ## Different Files
@@ -32,9 +33,13 @@ From this webpage we made the scrapping to get all the data, the first 6000 Mast
 
    Here are stored all the inverted index of the first search engine for the exercise 2
    
-7. `urls.txt`
+7. `urls.txt`:
 
    Here are stored all the urls of the first search engine for the exercise 2
+   
+9. `ADM-HW3-CL.png`:
+    
+    Result of the Command Line function
 
 # Master's Degrees from all over! 
 
