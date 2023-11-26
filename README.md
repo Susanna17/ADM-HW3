@@ -41,6 +41,10 @@ From this webpage we made the scrapping to get all the data, the first 6000 Mast
     
     Result of the Command Line function
 
+10. `keplergl_map.html`:
+    
+    The map from exercise 4
+
 # Master's Degrees from all over! 
 
 In this work, our initial aim is to comprehend and correctly scrape the data, ensuring that all necessary information is collected without errors. It is evident that without clean data, performing a proper job becomes challenging.
